@@ -18,7 +18,7 @@ Automated bot for the [Pharos Testnet](https://pharosnetwork.xyz), designed for 
 
 1. Clone the repository:
    ```bash
-   git https://github.com/0xsteve-00/pharosbot.git
+   git clone https://github.com/0xsteve-00/pharosbot.git
    cd pharosbot
    ```
 
